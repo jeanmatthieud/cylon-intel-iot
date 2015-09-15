@@ -14,7 +14,8 @@ module.exports = {
             "upm-ldt0028", "upm-mma7660",
             "upm-otp538u", "upm-rfr359f",
             "upm-ssd1308", "upm-tp401",
-            "upm-tsl2561", "upm-yg1006"],
+            "upm-tsl2561", "upm-ttp223",
+            "upm-yg1006"],
   dependencies: ["cylon-gpio", "cylon-i2c"],
 
   adaptor: function(opts) {
